@@ -1,5 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+# The html is under the develop folder, sorry I had a hard time pushing the file to github
+
 # The movition for this assignment was to make the website more accessible to everyone who visits it. 
 
 # This project came into fruition because it is the standard for every website to use this concept for their website
